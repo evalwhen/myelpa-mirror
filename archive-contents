@@ -177,6 +177,7 @@
  (org-roam . [(2 1 0) ((emacs (26 1)) (dash (2 13)) (f (0 17 2)) (org (9 4)) (emacsql (3 0 0)) (emacsql-sqlite (1 0 0)) (magit-section (2 90 1))) "A database abstraction layer for Org-mode" tar])
  (organic-green-theme . [(20201216 2240) nil "Low-contrast green color theme." tar])
  (paredit . [(24) nil "minor mode for editing parentheses" tar])
+ (paren-face . [(1 0 7) nil "a face for parentheses in lisp modes" tar])
  (pdf-tools . [(0 90) ((emacs (24 3)) (tablist (0 70)) (let-alist (1 0 4))) "Support library for PDF documents." tar])
  (phoenix-dark-mono-theme . [(20170729 1406) nil "Monochromatic version of the Phoenix theme" tar])
  (phoenix-dark-pink-theme . [(20190821 48) nil "Originally a port of the Sublime Text 2 theme" tar])
