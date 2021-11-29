@@ -103,6 +103,7 @@
  (use-package . [(20210207 1926) ((emacs (24 3)) (bind-key (2 4))) "A configuration macro for simplifying your .emacs" tar])
  (visual-fill-column . [(20211118 33) ((emacs (25 1))) "fillmode" tar])
  (vterm . [(20210908 640) ((emacs (25 1))) "Fully-featured terminal emulator" tar])
+ (wgrep . [(20210322 2207) nil "Writable grep buffer and apply the changes to files" tar])
  (which-key . [(20211126 345) ((emacs (24 4))) "Display available keybindings in popup" tar])
  (winum . [(20190911 1607) ((cl-lib (0 5)) (dash (2 13 0))) "Navigate windows and frames using numbers." tar])
  (with-editor . [(20211028 2105) ((emacs (24 4))) "Use the Emacsclient as $EDITOR" tar])
