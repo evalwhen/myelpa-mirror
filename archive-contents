@@ -98,6 +98,7 @@
  (restclient . [(20210923 2234) nil "An interactive HTTP client for Emacs" tar])
  (s . [(20210616 619) nil "The long lost Emacs string manipulation library." tar])
  (shrink-path . [(20190208 1335) ((emacs (24)) (s (1 6 1)) (dash (1 8 0)) (f (0 10 0))) "fish-style path" tar])
+ (sly . [(20211121 1002) ((emacs (24 3))) "Sylvester the Cat's Common Lisp IDE" tar])
  (smartparens . [(20211101 1101) ((dash (2 13 0)) (cl-lib (0 3))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar])
  (spinner . [(1 7 4) ((emacs (24 3))) "Add spinners and progressline for ongoing operations" tar])
  (swiper . [(20210919 1221) ((emacs (24 5)) (ivy (0 13 4))) "Isearch with an overview. Oh, man!" tar])
