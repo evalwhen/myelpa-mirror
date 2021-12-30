@@ -93,6 +93,7 @@
  (projectile . [(20211126 1201) ((emacs (25 1))) "Manage and navigate projects in Emacs easily" tar])
  (python-mode . [(20211117 1920) nil "Python major mode" tar])
  (pyvenv . [(20211014 707) nil "Python virtual environment interface" tar])
+ (racket-mode . [(20211227 1511) ((emacs (25 1))) "Racket editing, REPL, and more" tar])
  (rainbow-delimiters . [(20210515 1254) nil "Highlight brackets according to their depth" tar])
  (rainbow-mode . [(1 0 5) nil "Colorize color names in buffers" tar])
  (restclient . [(20210923 2234) nil "An interactive HTTP client for Emacs" tar])
