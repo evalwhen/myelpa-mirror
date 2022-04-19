@@ -102,6 +102,7 @@
  (rainbow-mode . [(1 0 5) nil "Colorize color names in buffers" tar])
  (restclient . [(20210923 2234) nil "An interactive HTTP client for Emacs" tar])
  (s . [(20210616 619) nil "The long lost Emacs string manipulation library." tar])
+ (shen-mode . [(0 1) nil "Utilities for working with Shen code." tar])
  (shrink-path . [(20190208 1335) ((emacs (24)) (s (1 6 1)) (dash (1 8 0)) (f (0 10 0))) "fish-style path" tar])
  (simple-httpd . [(20191103 1446) ((cl-lib (0 3))) "pure elisp HTTP server" tar])
  (skewer-mode . [(20200304 1142) ((simple-httpd (1 4 0)) (js2-mode (20090723)) (emacs (24))) "live browser JavaScript, CSS, and HTML interaction" tar])
